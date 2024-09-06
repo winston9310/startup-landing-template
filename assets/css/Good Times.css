@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Good Times';
+	src: url(../../assets/fonts/GoodTimes.woff2) format('woff2'),
+	url(../../assets/fonts/GoodTimes.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
